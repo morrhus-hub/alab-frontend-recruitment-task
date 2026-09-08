@@ -1,0 +1,122 @@
+[
+  {
+    "id": "loc-01",
+    "name": "Punkt Pobrań Śródmieście - Marszałkowska",
+    "district": "Śródmieście",
+    "address": "ul. Marszałkowska 84/92, 00-514 Warszawa",
+    "lat": 52.2275,
+    "lng": 21.0135,
+    "openingHours": "Pn-Pt: 06:30-15:00, Sob: 07:00-12:30",
+    "supportsChildDraw": true
+  },
+  {
+    "id": "loc-02",
+    "name": "Punkt Pobrań Mokotów - Puławska",
+    "district": "Mokotów",
+    "address": "ul. Puławska 145, 02-715 Warszawa",
+    "lat": 52.1932,
+    "lng": 21.0234,
+    "openingHours": "Pn-Pt: 07:00-14:30, Sob: 07:30-12:00",
+    "supportsChildDraw": true
+  },
+  {
+    "id": "loc-03",
+    "name": "Punkt Pobrań Wola - Kasprzaka",
+    "district": "Wola",
+    "address": "ul. Marcina Kasprzaka 17, 01-211 Warszawa",
+    "lat": 52.2289,
+    "lng": 20.9698,
+    "openingHours": "Pn-Pt: 07:00-14:00",
+    "supportsChildDraw": false
+  },
+  {
+    "id": "loc-04",
+    "name": "Punkt Pobrań Ursynów - KEN",
+    "district": "Ursynów",
+    "address": "al. Komisji Edukacji Narodowej 85, 02-777 Warszawa",
+    "lat": 52.1554,
+    "lng": 21.0506,
+    "openingHours": "Pn-Pt: 06:45-15:00, Sob: 07:30-13:00",
+    "supportsChildDraw": true
+  },
+  {
+    "id": "loc-05",
+    "name": "Punkt Pobrań Praga-Południe - Grochowska",
+    "district": "Praga-Południe",
+    "address": "ul. Grochowska 234/240, 04-082 Warszawa",
+    "lat": 52.2465,
+    "lng": 21.0792,
+    "openingHours": "Pn-Pt: 07:00-14:30",
+    "supportsChildDraw": false
+  },
+  {
+    "id": "loc-06",
+    "name": "Punkt Pobrań Ochota - Grójecka",
+    "district": "Ochota",
+    "address": "ul. Grójecka 76, 02-359 Warszawa",
+    "lat": 52.2131,
+    "lng": 20.9789,
+    "openingHours": "Pn-Pt: 07:00-14:30",
+    "supportsChildDraw": true
+  },
+  {
+    "id": "loc-07",
+    "name": "Punkt Pobrań Bielany - Kasprowicza",
+    "district": "Bielany",
+    "address": "ul. Jana Kasprowicza 68, 01-871 Warszawa",
+    "lat": 52.2818,
+    "lng": 20.9497,
+    "openingHours": "Pn-Pt: 07:00-14:00, Sob: 07:30-12:00",
+    "supportsChildDraw": false
+  },
+  {
+    "id": "loc-08",
+    "name": "Punkt Pobrań Żoliborz - Mickiewicza",
+    "district": "Żoliborz",
+    "address": "ul. Adama Mickiewicza 27, 01-517 Warszawa",
+    "lat": 52.2678,
+    "lng": 20.9856,
+    "openingHours": "Pn-Pt: 07:15-14:30",
+    "supportsChildDraw": true
+  },
+  {
+    "id": "loc-09",
+    "name": "Punkt Pobrań Targówek - Kondratowicza",
+    "district": "Targówek",
+    "address": "ul. Ludwika Kondratowicza 37, 03-285 Warszawa",
+    "lat": 52.2934,
+    "lng": 21.0392,
+    "openingHours": "Pn-Pt: 07:00-14:00",
+    "supportsChildDraw": false
+  },
+  {
+    "id": "loc-10",
+    "name": "Punkt Pobrań Wilanów - Rzeczypospolitej",
+    "district": "Wilanów",
+    "address": "al. Rzeczypospolitej 14, 02-972 Warszawa",
+    "lat": 52.1611,
+    "lng": 21.0772,
+    "openingHours": "Pn-Pt: 07:00-15:00, Sob: 07:30-12:30",
+    "supportsChildDraw": true
+  },
+  {
+    "id": "loc-11",
+    "name": "Punkt Pobrań Bemowo - Powstańców Śląskich",
+    "district": "Bemowo",
+    "address": "ul. Powstańców Śląskich 106, 01-466 Warszawa",
+    "lat": 52.2415,
+    "lng": 20.9168,
+    "openingHours": "Pn-Pt: 07:00-14:30",
+    "supportsChildDraw": false
+  },
+  {
+    "id": "loc-12",
+    "name": "Punkt Pobrań Białołęka - Światowida",
+    "district": "Białołęka",
+    "address": "ul. Światowida 49, 03-144 Warszawa",
+    "lat": 52.3216,
+    "lng": 20.9635,
+    "openingHours": "Pn-Pt: 07:00-14:00, Sob: 08:00-12:00",
+    "supportsChildDraw": true
+  }
+]

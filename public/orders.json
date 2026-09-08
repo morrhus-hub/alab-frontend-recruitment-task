@@ -1,0 +1,553 @@
+[
+  {
+    "id": "ord-2026-001",
+    "createdAt": "2026-09-03T14:22:10Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-01",
+        "examName": "Morfologia krwi pełna (5-diff)",
+        "quantity": 1,
+        "price": 19.0
+      },
+      {
+        "examId": "exam-02",
+        "examName": "Glukoza na czczo",
+        "quantity": 1,
+        "price": 16.0
+      },
+      {
+        "examId": "exam-03",
+        "examName": "Lipidogram (CHOL, HDL, LDL, TG)",
+        "quantity": 1,
+        "price": 38.0
+      }
+    ],
+    "amount": 73.0,
+    "labLocation": "Punkt Pobrań Śródmieście - Marszałkowska",
+    "resultPdf": "https://example.com/results/ord-2026-001.pdf"
+  },
+  {
+    "id": "ord-2026-002",
+    "createdAt": "2026-09-03T10:15:45Z",
+    "status": "pending_payment",
+    "items": [
+      {
+        "examId": "exam-17",
+        "examName": "Witamina D3 metabolit 25(OH)",
+        "quantity": 1,
+        "price": 79.0
+      },
+      {
+        "examId": "exam-18",
+        "examName": "Ferrytyna",
+        "quantity": 1,
+        "price": 46.0
+      }
+    ],
+    "amount": 125.0,
+    "labLocation": "Punkt Pobrań Mokotów - Puławska"
+  },
+  {
+    "id": "ord-2026-003",
+    "createdAt": "2026-09-02T16:40:00Z",
+    "status": "in_lab",
+    "items": [
+      {
+        "examId": "exam-16",
+        "examName": "Próby wątrobowe (ALT, AST, ALP, BIL, GGTP)",
+        "quantity": 1,
+        "price": 49.0
+      },
+      {
+        "examId": "exam-06",
+        "examName": "Kreatynina z eGFR",
+        "quantity": 1,
+        "price": 20.0
+      }
+    ],
+    "amount": 69.0,
+    "labLocation": "Punkt Pobrań Ursynów - KEN"
+  },
+  {
+    "id": "ord-2026-004",
+    "createdAt": "2026-09-02T08:12:30Z",
+    "status": "awaiting_sample",
+    "items": [
+      {
+        "examId": "exam-13",
+        "examName": "TSH (hormon tyreotropowy)",
+        "quantity": 1,
+        "price": 32.0
+      },
+      {
+        "examId": "exam-14",
+        "examName": "FT3 (wolna trijodotyronina)",
+        "quantity": 1,
+        "price": 34.0
+      },
+      {
+        "examId": "exam-15",
+        "examName": "FT4 (wolna tyroksyna)",
+        "quantity": 1,
+        "price": 34.0
+      }
+    ],
+    "amount": 100.0,
+    "labLocation": "Punkt Pobrań Wola - Kasprzaka"
+  },
+  {
+    "id": "ord-2026-005",
+    "createdAt": "2026-09-01T11:05:00Z",
+    "status": "processing",
+    "items": [
+      {
+        "examId": "exam-27",
+        "examName": "Anty-TPO (przeciwciała przeciw peroksydazie)",
+        "quantity": 1,
+        "price": 54.0
+      },
+      {
+        "examId": "exam-28",
+        "examName": "Anty-TG (przeciwciała przeciw tyreoglobulinie)",
+        "quantity": 1,
+        "price": 54.0
+      }
+    ],
+    "amount": 108.0,
+    "labLocation": "Punkt Pobrań Ochota - Grójecka"
+  },
+  {
+    "id": "ord-2026-006",
+    "createdAt": "2026-05-30T13:20:15Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-32",
+        "examName": "Panel alergiczny wziewny (20 alergenów)",
+        "quantity": 1,
+        "price": 185.0
+      }
+    ],
+    "amount": 185.0,
+    "labLocation": "Punkt Pobrań Śródmieście - Marszałkowska",
+    "resultPdf": "https://example.com/results/ord-2026-006.pdf"
+  },
+  {
+    "id": "ord-2026-007",
+    "createdAt": "2026-05-28T09:45:00Z",
+    "status": "cancelled",
+    "items": [
+      {
+        "examId": "exam-31",
+        "examName": "Borelioza IgG i IgM (metodą ELISA)",
+        "quantity": 1,
+        "price": 89.0
+      }
+    ],
+    "amount": 89.0,
+    "labLocation": "Punkt Pobrań Bielany - Kasprowicza"
+  },
+  {
+    "id": "ord-2026-008",
+    "createdAt": "2026-05-26T15:30:20Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-05",
+        "examName": "Elektrolity (Sód, Potas)",
+        "quantity": 1,
+        "price": 24.0
+      },
+      {
+        "examId": "exam-09",
+        "examName": "Magnez w surowicy",
+        "quantity": 1,
+        "price": 19.0
+      },
+      {
+        "examId": "exam-12",
+        "examName": "Wapń całkowity",
+        "quantity": 1,
+        "price": 19.0
+      }
+    ],
+    "amount": 62.0,
+    "labLocation": "Punkt Pobrań Żoliborz - Mickiewicza",
+    "resultPdf": "https://example.com/results/ord-2026-008.pdf"
+  },
+  {
+    "id": "ord-2026-009",
+    "createdAt": "2026-05-24T12:10:00Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-10",
+        "examName": "CRP - Białko C-reaktywne (ilościowo)",
+        "quantity": 1,
+        "price": 29.0
+      },
+      {
+        "examId": "exam-01",
+        "examName": "Morfologia krwi pełna (5-diff)",
+        "quantity": 1,
+        "price": 19.0
+      }
+    ],
+    "amount": 48.0,
+    "labLocation": "Punkt Pobrań Wilanów - Rzeczypospolitej",
+    "resultPdf": "https://example.com/results/ord-2026-009.pdf"
+  },
+  {
+    "id": "ord-2026-010",
+    "createdAt": "2026-05-22T08:50:00Z",
+    "status": "pending_payment",
+    "items": [
+      {
+        "examId": "exam-34",
+        "examName": "PSA całkowity (antygen swoisty dla stercza)",
+        "quantity": 1,
+        "price": 49.0
+      },
+      {
+        "examId": "exam-01",
+        "examName": "Morfologia krwi pełna (5-diff)",
+        "quantity": 1,
+        "price": 19.0
+      }
+    ],
+    "amount": 68.0,
+    "labLocation": "Punkt Pobrań Praga-Południe - Grochowska"
+  },
+  {
+    "id": "ord-2026-011",
+    "createdAt": "2026-05-20T17:15:30Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-19",
+        "examName": "Hemoglobina glikowana (HbA1c)",
+        "quantity": 1,
+        "price": 45.0
+      },
+      {
+        "examId": "exam-02",
+        "examName": "Glukoza na czczo",
+        "quantity": 1,
+        "price": 16.0
+      },
+      {
+        "examId": "exam-23",
+        "examName": "Insulina na czczo",
+        "quantity": 1,
+        "price": 42.0
+      }
+    ],
+    "amount": 103.0,
+    "labLocation": "Punkt Pobrań Mokotów - Puławska",
+    "resultPdf": "https://example.com/results/ord-2026-011.pdf"
+  },
+  {
+    "id": "ord-2026-012",
+    "createdAt": "2026-05-18T10:35:00Z",
+    "status": "in_lab",
+    "items": [
+      {
+        "examId": "exam-20",
+        "examName": "Koagulogram (PT/INR, APTT, Fibrynogen)",
+        "quantity": 1,
+        "price": 48.0
+      },
+      {
+        "examId": "exam-30",
+        "examName": "D-dimery (ilościowo)",
+        "quantity": 1,
+        "price": 58.0
+      }
+    ],
+    "amount": 106.0,
+    "labLocation": "Punkt Pobrań Śródmieście - Marszałkowska"
+  },
+  {
+    "id": "ord-2026-013",
+    "createdAt": "2026-05-15T14:00:00Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-21",
+        "examName": "Witamina B12",
+        "quantity": 1,
+        "price": 49.0
+      },
+      {
+        "examId": "exam-22",
+        "examName": "Kwas foliowy",
+        "quantity": 1,
+        "price": 47.0
+      },
+      {
+        "examId": "exam-08",
+        "examName": "Żelazo w surowicy",
+        "quantity": 1,
+        "price": 22.0
+      },
+      {
+        "examId": "exam-18",
+        "examName": "Ferrytyna",
+        "quantity": 1,
+        "price": 46.0
+      }
+    ],
+    "amount": 164.0,
+    "labLocation": "Punkt Pobrań Targówek - Kondratowicza",
+    "resultPdf": "https://example.com/results/ord-2026-013.pdf"
+  },
+  {
+    "id": "ord-2026-014",
+    "createdAt": "2026-05-12T11:25:40Z",
+    "status": "awaiting_sample",
+    "items": [
+      {
+        "examId": "exam-24",
+        "examName": "Kortyzol w surowicy",
+        "quantity": 1,
+        "price": 44.0
+      }
+    ],
+    "amount": 44.0,
+    "labLocation": "Punkt Pobrań Ochota - Grójecka"
+  },
+  {
+    "id": "ord-2026-015",
+    "createdAt": "2026-05-10T09:00:00Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-25",
+        "examName": "Testosteron całkowity",
+        "quantity": 1,
+        "price": 46.0
+      },
+      {
+        "examId": "exam-26",
+        "examName": "Estradiol (E2)",
+        "quantity": 1,
+        "price": 43.0
+      }
+    ],
+    "amount": 89.0,
+    "labLocation": "Punkt Pobrań Ursynów - KEN",
+    "resultPdf": "https://example.com/results/ord-2026-015.pdf"
+  },
+  {
+    "id": "ord-2026-016",
+    "createdAt": "2026-05-07T16:20:00Z",
+    "status": "cancelled",
+    "items": [
+      {
+        "examId": "exam-35",
+        "examName": "Kalprotektyna w kale",
+        "quantity": 1,
+        "price": 139.0
+      }
+    ],
+    "amount": 139.0,
+    "labLocation": "Punkt Pobrań Białołęka - Światowida"
+  },
+  {
+    "id": "ord-2026-017",
+    "createdAt": "2026-05-05T13:45:10Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-04",
+        "examName": "Mocz - badanie ogólne z osadem",
+        "quantity": 2,
+        "price": 18.0
+      },
+      {
+        "examId": "exam-07",
+        "examName": "Kwas moczowy",
+        "quantity": 1,
+        "price": 18.0
+      }
+    ],
+    "amount": 54.0,
+    "labLocation": "Punkt Pobrań Wola - Kasprzaka",
+    "resultPdf": "https://example.com/results/ord-2026-017.pdf"
+  },
+  {
+    "id": "ord-2026-018",
+    "createdAt": "2026-05-03T10:10:00Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-29",
+        "examName": "Homocysteina",
+        "quantity": 1,
+        "price": 79.0
+      },
+      {
+        "examId": "exam-03",
+        "examName": "Lipidogram (CHOL, HDL, LDL, TG)",
+        "quantity": 1,
+        "price": 38.0
+      }
+    ],
+    "amount": 117.0,
+    "labLocation": "Punkt Pobrań Mokotów - Puławska",
+    "resultPdf": "https://example.com/results/ord-2026-018.pdf"
+  },
+  {
+    "id": "ord-2026-019",
+    "createdAt": "2026-07-31T08:30:00Z",
+    "status": "processing",
+    "items": [
+      {
+        "examId": "exam-33",
+        "examName": "Panel alergiczny pokarmowy (20 alergenów)",
+        "quantity": 1,
+        "price": 185.0
+      }
+    ],
+    "amount": 185.0,
+    "labLocation": "Punkt Pobrań Bemowo - Powstańców Śląskich"
+  },
+  {
+    "id": "ord-2026-020",
+    "createdAt": "2026-07-28T14:15:00Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-01",
+        "examName": "Morfologia krwi pełna (5-diff)",
+        "quantity": 1,
+        "price": 19.0
+      },
+      {
+        "examId": "exam-11",
+        "examName": "Bilirubina całkowita",
+        "quantity": 1,
+        "price": 18.0
+      }
+    ],
+    "amount": 37.0,
+    "labLocation": "Punkt Pobrań Żoliborz - Mickiewicza",
+    "resultPdf": "https://example.com/results/ord-2026-020.pdf"
+  },
+  {
+    "id": "ord-2026-021",
+    "createdAt": "2026-07-25T11:40:00Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-17",
+        "examName": "Witamina D3 metabolit 25(OH)",
+        "quantity": 1,
+        "price": 79.0
+      }
+    ],
+    "amount": 79.0,
+    "labLocation": "Punkt Pobrań Wilanów - Rzeczypospolitej",
+    "resultPdf": "https://example.com/results/ord-2026-021.pdf"
+  },
+  {
+    "id": "ord-2026-022",
+    "createdAt": "2026-07-22T09:05:00Z",
+    "status": "pending_payment",
+    "items": [
+      {
+        "examId": "exam-16",
+        "examName": "Próby wątrobowe (ALT, AST, ALP, BIL, GGTP)",
+        "quantity": 1,
+        "price": 49.0
+      },
+      {
+        "examId": "exam-02",
+        "examName": "Glukoza na czczo",
+        "quantity": 1,
+        "price": 16.0
+      }
+    ],
+    "amount": 65.0,
+    "labLocation": "Punkt Pobrań Śródmieście - Marszałkowska"
+  },
+  {
+    "id": "ord-2026-023",
+    "createdAt": "2026-07-19T15:50:00Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-05",
+        "examName": "Elektrolity (Sód, Potas)",
+        "quantity": 1,
+        "price": 24.0
+      },
+      {
+        "examId": "exam-06",
+        "examName": "Kreatynina z eGFR",
+        "quantity": 1,
+        "price": 20.0
+      },
+      {
+        "examId": "exam-07",
+        "examName": "Kwas moczowy",
+        "quantity": 1,
+        "price": 18.0
+      }
+    ],
+    "amount": 62.0,
+    "labLocation": "Punkt Pobrań Ursynów - KEN",
+    "resultPdf": "https://example.com/results/ord-2026-023.pdf"
+  },
+  {
+    "id": "ord-2026-024",
+    "createdAt": "2026-07-15T12:30:00Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-13",
+        "examName": "TSH (hormon tyreotropowy)",
+        "quantity": 1,
+        "price": 32.0
+      },
+      {
+        "examId": "exam-18",
+        "examName": "Ferrytyna",
+        "quantity": 1,
+        "price": 46.0
+      }
+    ],
+    "amount": 78.0,
+    "labLocation": "Punkt Pobrań Praga-Południe - Grochowska",
+    "resultPdf": "https://example.com/results/ord-2026-024.pdf"
+  },
+  {
+    "id": "ord-2026-025",
+    "createdAt": "2026-07-10T10:00:00Z",
+    "status": "ready",
+    "items": [
+      {
+        "examId": "exam-01",
+        "examName": "Morfologia krwi pełna (5-diff)",
+        "quantity": 2,
+        "price": 19.0
+      },
+      {
+        "examId": "exam-03",
+        "examName": "Lipidogram (CHOL, HDL, LDL, TG)",
+        "quantity": 1,
+        "price": 38.0
+      },
+      {
+        "examId": "exam-10",
+        "examName": "CRP - Białko C-reaktywne (ilościowo)",
+        "quantity": 1,
+        "price": 29.0
+      }
+    ],
+    "amount": 105.0,
+    "labLocation": "Punkt Pobrań Bielany - Kasprowicza",
+    "resultPdf": "https://example.com/results/ord-2026-025.pdf"
+  }
+]

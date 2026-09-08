@@ -1,0 +1,352 @@
+[
+  {
+    "id": "exam-01",
+    "name": "Morfologia krwi pełna (5-diff)",
+    "category": "Basic",
+    "price": 19.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 99,
+    "tags": ["hematology", "general", "preventive"]
+  },
+  {
+    "id": "exam-02",
+    "name": "Glukoza na czczo",
+    "category": "Basic",
+    "price": 16.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 95,
+    "tags": ["diabetes", "metabolism", "preventive"]
+  },
+  {
+    "id": "exam-03",
+    "name": "Lipidogram (CHOL, HDL, LDL, TG)",
+    "category": "Basic",
+    "price": 38.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 92,
+    "tags": ["cardio", "lipids", "preventive"]
+  },
+  {
+    "id": "exam-04",
+    "name": "Mocz - badanie ogólne z osadem",
+    "category": "Basic",
+    "price": 18.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 89,
+    "tags": ["renal", "general", "preventive"]
+  },
+  {
+    "id": "exam-05",
+    "name": "Elektrolity (Sód, Potas)",
+    "category": "Basic",
+    "price": 24.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 86,
+    "tags": ["electrolytes", "cardio", "general"]
+  },
+  {
+    "id": "exam-06",
+    "name": "Kreatynina z eGFR",
+    "category": "Basic",
+    "price": 20.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 84,
+    "tags": ["renal", "metabolism"]
+  },
+  {
+    "id": "exam-07",
+    "name": "Kwas moczowy",
+    "category": "Basic",
+    "price": 18.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 78,
+    "tags": ["renal", "joints", "metabolism"]
+  },
+  {
+    "id": "exam-08",
+    "name": "Żelazo w surowicy",
+    "category": "Basic",
+    "price": 22.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 81,
+    "tags": ["anemia", "hematology", "minerals"]
+  },
+  {
+    "id": "exam-09",
+    "name": "Magnez w surowicy",
+    "category": "Basic",
+    "price": 19.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 83,
+    "tags": ["minerals", "neurology", "cardio"]
+  },
+  {
+    "id": "exam-10",
+    "name": "CRP - Białko C-reaktywne (ilościowo)",
+    "category": "Basic",
+    "price": 29.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 90,
+    "tags": ["inflammation", "infection", "immunity"]
+  },
+  {
+    "id": "exam-11",
+    "name": "Bilirubina całkowita",
+    "category": "Basic",
+    "price": 18.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 70,
+    "tags": ["liver", "digestive"]
+  },
+  {
+    "id": "exam-12",
+    "name": "Wapń całkowity",
+    "category": "Basic",
+    "price": 19.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 73,
+    "tags": ["bones", "minerals", "electrolytes"]
+  },
+  {
+    "id": "exam-13",
+    "name": "TSH (hormon tyreotropowy)",
+    "category": "Advanced",
+    "price": 32.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 96,
+    "tags": ["thyroid", "hormones", "endocrine"]
+  },
+  {
+    "id": "exam-14",
+    "name": "FT3 (wolna trijodotyronina)",
+    "category": "Advanced",
+    "price": 34.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 85,
+    "tags": ["thyroid", "hormones", "endocrine"]
+  },
+  {
+    "id": "exam-15",
+    "name": "FT4 (wolna tyroksyna)",
+    "category": "Advanced",
+    "price": 34.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 87,
+    "tags": ["thyroid", "hormones", "endocrine"]
+  },
+  {
+    "id": "exam-16",
+    "name": "Próby wątrobowe (ALT, AST, ALP, BIL, GGTP)",
+    "category": "Advanced",
+    "price": 49.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 91,
+    "tags": ["liver", "enzymes", "digestive"]
+  },
+  {
+    "id": "exam-17",
+    "name": "Witamina D3 metabolit 25(OH)",
+    "category": "Advanced",
+    "price": 79.0,
+    "fastingRequired": false,
+    "resultTimeHours": 48,
+    "popularity": 94,
+    "tags": ["vitamins", "immunity", "bones"]
+  },
+  {
+    "id": "exam-18",
+    "name": "Ferrytyna",
+    "category": "Advanced",
+    "price": 46.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 88,
+    "tags": ["anemia", "iron", "hematology"]
+  },
+  {
+    "id": "exam-19",
+    "name": "Hemoglobina glikowana (HbA1c)",
+    "category": "Advanced",
+    "price": 45.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 82,
+    "tags": ["diabetes", "metabolism"]
+  },
+  {
+    "id": "exam-20",
+    "name": "Koagulogram (PT/INR, APTT, Fibrynogen)",
+    "category": "Advanced",
+    "price": 48.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 79,
+    "tags": ["coagulation", "cardio", "hematology"]
+  },
+  {
+    "id": "exam-21",
+    "name": "Witamina B12",
+    "category": "Advanced",
+    "price": 49.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 80,
+    "tags": ["vitamins", "neurology", "anemia"]
+  },
+  {
+    "id": "exam-22",
+    "name": "Kwas foliowy",
+    "category": "Advanced",
+    "price": 47.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 74,
+    "tags": ["vitamins", "pregnancy", "anemia"]
+  },
+  {
+    "id": "exam-23",
+    "name": "Insulina na czczo",
+    "category": "Advanced",
+    "price": 42.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 86,
+    "tags": ["diabetes", "insulin-resistance", "metabolism"]
+  },
+  {
+    "id": "exam-24",
+    "name": "Kortyzol w surowicy",
+    "category": "Advanced",
+    "price": 44.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 76,
+    "tags": ["hormones", "stress", "endocrine"]
+  },
+  {
+    "id": "exam-25",
+    "name": "Testosteron całkowity",
+    "category": "Advanced",
+    "price": 46.0,
+    "fastingRequired": true,
+    "resultTimeHours": 24,
+    "popularity": 79,
+    "tags": ["hormones", "fertility", "endocrine"]
+  },
+  {
+    "id": "exam-26",
+    "name": "Estradiol (E2)",
+    "category": "Advanced",
+    "price": 43.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 75,
+    "tags": ["hormones", "fertility", "women-health"]
+  },
+  {
+    "id": "exam-27",
+    "name": "Anty-TPO (przeciwciała przeciw peroksydazie)",
+    "category": "Specialized",
+    "price": 54.0,
+    "fastingRequired": false,
+    "resultTimeHours": 48,
+    "popularity": 87,
+    "tags": ["thyroid", "autoimmune", "hashimoto"]
+  },
+  {
+    "id": "exam-28",
+    "name": "Anty-TG (przeciwciała przeciw tyreoglobulinie)",
+    "category": "Specialized",
+    "price": 54.0,
+    "fastingRequired": false,
+    "resultTimeHours": 48,
+    "popularity": 81,
+    "tags": ["thyroid", "autoimmune", "hashimoto"]
+  },
+  {
+    "id": "exam-29",
+    "name": "Homocysteina",
+    "category": "Specialized",
+    "price": 79.0,
+    "fastingRequired": true,
+    "resultTimeHours": 48,
+    "popularity": 77,
+    "tags": ["cardio", "thrombosis", "metabolism"]
+  },
+  {
+    "id": "exam-30",
+    "name": "D-dimery (ilościowo)",
+    "category": "Specialized",
+    "price": 58.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 84,
+    "tags": ["coagulation", "thrombosis", "cardio"]
+  },
+  {
+    "id": "exam-31",
+    "name": "Borelioza IgG i IgM (metodą ELISA)",
+    "category": "Specialized",
+    "price": 89.0,
+    "fastingRequired": false,
+    "resultTimeHours": 72,
+    "popularity": 72,
+    "tags": ["infection", "tick-borne", "serology"]
+  },
+  {
+    "id": "exam-32",
+    "name": "Panel alergiczny wziewny (20 alergenów)",
+    "category": "Specialized",
+    "price": 185.0,
+    "fastingRequired": false,
+    "resultTimeHours": 72,
+    "popularity": 68,
+    "tags": ["allergy", "immunity", "respiratory"]
+  },
+  {
+    "id": "exam-33",
+    "name": "Panel alergiczny pokarmowy (20 alergenów)",
+    "category": "Specialized",
+    "price": 185.0,
+    "fastingRequired": false,
+    "resultTimeHours": 72,
+    "popularity": 65,
+    "tags": ["allergy", "digestive", "pediatric"]
+  },
+  {
+    "id": "exam-34",
+    "name": "PSA całkowity (antygen swoisty dla stercza)",
+    "category": "Specialized",
+    "price": 49.0,
+    "fastingRequired": false,
+    "resultTimeHours": 24,
+    "popularity": 80,
+    "tags": ["men-health", "oncology", "preventive"]
+  },
+  {
+    "id": "exam-35",
+    "name": "Kalprotektyna w kale",
+    "category": "Specialized",
+    "price": 139.0,
+    "fastingRequired": false,
+    "resultTimeHours": 72,
+    "popularity": 63,
+    "tags": ["digestive", "gastro", "inflammation"]
+  }
+]

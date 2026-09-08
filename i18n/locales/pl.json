@@ -1,0 +1,70 @@
+{
+  "Catalog": {
+    "title": "Badania laboratoryjne",
+    "examCount": "Liczba badań: {count}",
+    "searchLabel": "Szukaj badania",
+    "searchPlaceholder": "Nazwa badania lub tag",
+    "cartCount": "W koszyku: {count}",
+    "goToCart": "Przejdź do koszyka",
+    "addedToCart": "Dodano badanie do koszyka",
+    "clearFilters": "Wyczyść filtry",
+    "loading": "Ładowanie badań...",
+    "error": "Nie udało się załadować badań.",
+    "empty": "Brak dostępnych badań.",
+    "noResults": "Brak badań spełniających wybrane kryteria.",
+    "filtersLabel": "Filtry badań",
+    "resultsLabel": "Lista badań"
+  },
+  "ExamCard": {
+    "fastingRequired": "Na czczo",
+    "fastResults": "Wynik do 24h",
+    "addToCart": "Dodaj do koszyka",
+    "addToCartAria": "Dodaj badanie {name} do koszyka",
+    "badgesLabel": "Informacje o badaniu"
+  },
+  "CatalogCategoryFilter": {
+    "title": "Kategoria",
+    "Basic": "Podstawowe",
+    "Advanced": "Zaawansowane",
+    "Specialized": "Specjalistyczne",
+    "fastingOnly": "Tylko badania na czczo",
+    "fastResultsOnly": "Tylko wyniki do 24h"
+  },
+  "CatalogSort": {
+    "label": "Sortowanie",
+    "priceAsc": "Cena: od najniższej",
+    "priceDesc": "Cena: od najwyższej",
+    "popularity": "Najpopularniejsze",
+    "resultTime": "Najszybszy wynik"
+  },
+  "CatalogPriceFilter": {
+    "title": "Cena",
+    "min": "Cena minimalna",
+    "max": "Cena maksymalna",
+    "invalidRange": "Cena minimalna nie może być większa od maksymalnej."
+  },
+  "Cart": {
+    "title": "Koszyk",
+    "empty": "Koszyk jest pusty",
+    "quantity": "Ilość",
+    "remove": "Usuń",
+    "clear": "Wyczyść koszyk",
+    "decreaseQuantity": "Zmniejsz ilość",
+    "increaseQuantity": "Zwiększ ilość",
+    "subtotal": "Suma przed rabatem",
+    "discount": "Rabat",
+    "total": "Do zapłaty",
+    "quantityDecreased": "Zmniejszono ilość badania",
+    "quantityIncreased": "Zwiększono ilość badania",
+    "itemRemoved": "Usunięto badanie z koszyka",
+    "cartCleared": "Wyczyszczono koszyk",
+    "backToCatalog": "Wróć do katalogu",
+    "itemsLabel": "Pozycje w koszyku",
+    "quantityControls": "Zmiana ilości",
+    "summaryLabel": "Podsumowanie koszyka",
+    "decreaseQuantityFor": "Zmniejsz ilość badania {name}",
+    "increaseQuantityFor": "Zwiększ ilość badania {name}",
+    "currentQuantity": "Aktualna ilość: {quantity}",
+    "removeItemAria": "Usuń badanie {name} z koszyka"
+  }
+}
