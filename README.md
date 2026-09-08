@@ -43,6 +43,12 @@ plugins/
 
 Catalog and cart code is isolated in their respective features. Shared utilities and domain types remain available through `shared/` and `types/`.
 
+# ALAB Frontend Recruitment Task
+
+Live demo: https://alab-frontend-recruitment-task.vercel.app/
+
+Repository: https://github.com/morrhus-hub/alab-frontend-recruitment-task
+
 ## Discount Rule
 
 For Basic-category exams:
